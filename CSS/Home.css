@@ -1,0 +1,38 @@
+﻿
+body{
+    background-color:black;
+}
+.Option_container{
+    height:10vh;
+    width:100%;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    margin-top:5px;
+}
+
+.User{
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:40%;
+    cursor:pointer;
+    background-color:white;
+}
+
+.Admin {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    cursor: pointer;
+    background-color: white;
+}
+
+.Button{
+    cursor:pointer;
+}
+
+
